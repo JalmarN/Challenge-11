@@ -1,0 +1,37 @@
+*{
+	font-family: Verdana;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+body{
+	background-color: #E7E7E7;
+}
+.DescrTxt{
+	font-size: 1.2rem;
+}
+.Text{
+	text-align: center;
+	font-size: 30px;
+}
+.CenterText{
+	text-align: center;
+}
+.Descr{
+	width: 40rem;
+	margin-right: 100rem;
+}
+.Descr2{
+	width: 40rem;
+	margin-left: 75rem;
+}
+.Img{
+	width: 30rem;
+}
+.link{
+	color: red;
+}
+.link:hover{
+	color: blue;
+}
